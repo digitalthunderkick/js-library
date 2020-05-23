@@ -1,4 +1,4 @@
-# js-library
+# JavaScript-library
 
 - http://javascript.sitesi.web.tr
 - http://jquery.sitesi.web.tr
